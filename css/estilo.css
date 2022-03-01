@@ -25,9 +25,7 @@ li:hover {
 button {
     background-image: linear-gradient(to right top, #6bd1aa, #6ad5b8, #6dd8c4, #72dbd0, #79dedb, #6fe2dd, #63e7de, #57ebdf, #35f1d0, #26f6ba, #3df99c, #5ffb78);
 }
-input[type="password"] {
-    background-color: yellow;
-}
+
 #ima1 { 
     border: 10px solid black;
     border-radius: 100px;
