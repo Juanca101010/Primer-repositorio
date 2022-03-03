@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body {
+    background-image: url(https://www.eltiempo.com/files/image_640_428/uploads/2020/06/12/5ee3f580ab4e1.jpeg);
+    backdrop-filter: blur(2px);
+    background-size: 1300px 600px;  
+}
+
+ul {
+    list-style-type: none;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #0216778f;
+    height: 50px;
+  }
+  
+  ul li {
+    display: inline;
+    margin-right: 15px;
+    position: relative;
+    left: 500px; top: 10px;
+  }
+  
+  ul a {
+    text-decoration: none;
+    background: #021160;
+    color: #fff;
+  }
+  
+  ul a:hover {
+    background: #faffb4;
+    color: #000;
+  }
